@@ -1,0 +1,1 @@
+# proje-sevom-hosh
