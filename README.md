@@ -1,5 +1,5 @@
 # proje-sevom-hosh
-# ♟️ 6x6 Checkers AI Agent
+#  6x6 Checkers AI Agent
 
 
 ##  معرفی پروژه
